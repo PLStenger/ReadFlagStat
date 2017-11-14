@@ -8,7 +8,7 @@ Installation from GitHub and loading
 # may be useful : install.packages("devtools")
 library(devtools)
 install_github("PLStenger/ReadFlagStat")
-library("ReadFlagStat)
+library("ReadFlagStat")
 ```
 
 Quick Start
@@ -25,7 +25,7 @@ Got to **R**, don't forget to "**Get your working directory**" into this previou
 And run this command:
 
 ``` r
-ReadFlagStat()
+FlagStat()
 ```
 
 And that's it ! ;) 
