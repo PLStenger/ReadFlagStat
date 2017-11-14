@@ -1,0 +1,11 @@
+Package: ReadFlagStat
+Type: Package
+Title: Catch Useful Informations Into FlagStat Txt Files Created by Galaxy.
+Version: 0.1.0
+Author: Pierre-Louis Stenger
+Maintainer: Pierre-Louis Stenger <Pierre.Louis.Stenger@ifremer.fr>
+Description: Create CSV file with the information of all yours FlagStat's txt files created by Galaxy
+License: GPL (>= 2)
+BugReports: https://github.com/PLStenger/ReadFlagStat/issues
+Encoding: UTF-8
+LazyData: true
