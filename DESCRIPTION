@@ -6,6 +6,7 @@ Author: Pierre-Louis Stenger
 Maintainer: Pierre-Louis Stenger <Pierre.Louis.Stenger@ifremer.fr>
 Description: Create CSV file with the information of all yours FlagStat's txt files created by Galaxy
 License: GPL (>= 2)
+Imports: Hmisc
 BugReports: https://github.com/PLStenger/ReadFlagStat/issues
 Encoding: UTF-8
 LazyData: true
